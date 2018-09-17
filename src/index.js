@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 const App = () => {
     return (
         <div>
-            This is a react app
+            This is a react app dev
         </div>
     )
 }
